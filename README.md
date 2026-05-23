@@ -1,4 +1,4 @@
-# AT&T Compliance Analyst System
+# Compliance Analyst System
 
 ---
 
